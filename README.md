@@ -13,4 +13,4 @@ In this repository you can find several projects & HW assignments I worked on du
 
 #### Python
 
-* Workshop in Data science - a collection of scripts & a Jupyter Notebook that were used for feature engineering, gathering data from Google's geocoding API and finally predicting the house prices   
+* Workshop in Data science - a collection of scripts & a Jupyter Notebook that were used for feature engineering, gathering data from Google's geocoding API and finally predicting housing prices   
