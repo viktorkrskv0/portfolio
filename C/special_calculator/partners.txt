@@ -1,0 +1,7 @@
+Full Name 1: Guy Leitersdrof
+Id No 1: 201178977
+User Name 1: leitersdrof
+Full Name 2: Viktor Karsakov
+Id No 2: 205727183
+User Name 2: viktork
+Assignment No: 1
