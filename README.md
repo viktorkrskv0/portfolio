@@ -13,13 +13,13 @@ In this repository you can find several projects & HW assignments I worked on du
 
 #### C\Matlab
 
-* extermum_finder - finding extermum numerically 
-* gauss_integration - performs numerical integration using the Gauss method
-* interpolation_analysis - performs one dimensional interpolation analysis
-* multidimensional_interpolation - performs multidimensional interpolation analysis
-* random_number_generator - generates random numbers
-* simplex - using the simplex algorithm to find an extermum in a multidimensional function
-* monte_carlo_integration - using the monte carlo method to integrate three dimensional function
+* extermum_finder
+* gauss_integration
+* interpolation_analysis
+* multidimensional_interpolation
+* random_number_generator
+* simplex
+* monte_carlo_integration
 
 
 #### Python
