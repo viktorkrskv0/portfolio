@@ -1,0 +1,124 @@
+*** STARFLEET COMMAND OFFICIAL REPORT ***
+
+Fleet ships sorted by fire power and commission year:
+Fighter
+	Name=USS Defiant
+	CommissionYear=2423
+	MaximalSpeed=6.0
+	FirePower=290
+	CrewMembers=130
+	AnnualMaintenanceCost=8990
+	WeaponArray=[Weapon [name=Laser Cannons, firePower=10, annualMaintenanceCost=110], Weapon [name=Quantum Torpedoes, firePower=120, annualMaintenanceCost=100], Weapon [name=TAU Phasers, firePower=150, annualMaintenanceCost=280]]
+Bomber
+	Name=USS Yamaguchi 
+	CommissionYear=2416
+	MaximalSpeed=9.9
+	FirePower=140
+	CrewMembers=233
+	AnnualMaintenanceCost=5185
+	WeaponArray=[Weapon [name=Laser Cannons, firePower=10, annualMaintenanceCost=110], Weapon [name=Photon Torpedoes, firePower=120, annualMaintenanceCost=260]]
+	NumberOfTechnicians=5
+StealthCruiser
+	Name=USS Galaxy
+	CommissionYear=2370
+	MaximalSpeed=9.0
+	FirePower=50
+	CrewMembers=4
+	AnnualMaintenanceCost=12200
+	WeaponArray=[Weapon [name=Laser Cannons, firePower=10, annualMaintenanceCost=100], Weapon [name=Evaporator, firePower=30, annualMaintenanceCost=300]]
+StealthCruiser
+	Name=USS Odyssey
+	CommissionYear=2419
+	MaximalSpeed=9.0
+	FirePower=20
+	CrewMembers=4
+	AnnualMaintenanceCost=11900
+	WeaponArray=[Weapon [name=Laser Cannons, firePower=10, annualMaintenanceCost=100]]
+StealthCruiser
+	Name=USS Amsterdamer
+	CommissionYear=2410
+	MaximalSpeed=9.2
+	FirePower=20
+	CrewMembers=3
+	AnnualMaintenanceCost=12100
+	WeaponArray=[Weapon [name=Laser Cannons, firePower=10, annualMaintenanceCost=100]]
+ExplorationShip
+	Name=USS Andromeda
+	CommissionYear=2532
+	MaximalSpeed=4.5
+	FirePower=10
+	CrewMembers=46
+	AnnualMaintenanceCost=11500
+	NumberOfResearchLabs=3
+ExplorationShip
+	Name=USS Excalibur
+	CommissionYear=2532
+	MaximalSpeed=4.5
+	FirePower=10
+	CrewMembers=46
+	AnnualMaintenanceCost=19000
+	NumberOfResearchLabs=6
+TransportShip
+	Name=USS Lantree
+	CommissionYear=2457
+	MaximalSpeed=5.1
+	FirePower=10
+	CrewMembers=9
+	AnnualMaintenanceCost=48000
+	CargoCapacity=3000
+	PassengerCapacity=10000
+ExplorationShip
+	Name=USS Enterprise
+	CommissionYear=2451
+	MaximalSpeed=7.2
+	FirePower=10
+	CrewMembers=78
+	AnnualMaintenanceCost=26500
+	NumberOfResearchLabs=9
+TransportShip
+	Name=USS Astral Queen
+	CommissionYear=2396
+	MaximalSpeed=5.1
+	FirePower=10
+	CrewMembers=23
+	AnnualMaintenanceCost=28000
+	CargoCapacity=2000
+	PassengerCapacity=5000
+
+Ship counts by type:
+	1	Bomber
+	3	ExplorationShip
+	1	Fighter
+	3	StealthCruiser
+	2	TransportShip
+
+Weapon types:
+	Evaporator
+	Laser Cannons
+	Photon Torpedoes
+	Quantum Torpedoes
+	TAU Phasers
+
+Highest ranking officer per ship:
+	Captain	Archer #171	USS Amsterdamer
+	Captain	Archer #27	USS Lantree
+	Captain	Data #167	USS Odyssey
+	Captain	FitzRoy #163	USS Galaxy
+	Captain	FitzRoy #499	USS Andromeda
+	Captain	Nemo #9	USS Astral Queen
+	Captain	Picard #194	USS Yamaguchi 
+	Captain	Riker #420	USS Enterprise
+	Captain	Sisko #52	USS Defiant
+	Captain	Troi #545	USS Excalibur
+
+Officer ranks sorted by popularity:
+	39	Ensign
+	26	Lieutenant
+	13	Commander
+	13	LieutenantCommander
+	10	Captain
+
+Fleet Totals:
+	Total fleet crew members:			576
+	Average age of fleet officers:			43.51
+	Total annual maintenance cost:			183375
