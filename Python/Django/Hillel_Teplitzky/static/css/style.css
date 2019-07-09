@@ -1,0 +1,83 @@
+body,html{
+  font-family: 'Della Respira', serif;
+  height: 100%;
+}
+
+.myNavBar{
+background-color:#170902;
+  /*background-color:#955d33;
+  background-color: #170902;*/
+}
+
+.section1Image{
+  background-image: url('recording_session_cropped_filtered.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+.otherSectionsImage{
+  background-image: url('recording_sessions2_cropped.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+.section1{
+  /*width:100%;
+  height:0;
+  padding-top:33.69%;*/
+  height:465px;
+  color: white;
+  text-align: center;
+  border-bottom: 5px solid #955d33;
+
+}
+
+
+.section2{
+/*  background-image: url('piano.jpg');*/
+  height: 650px;
+  background-color:#f9bc71;
+
+}
+.section3{
+  height: 250px;
+  background-color:#955d33;
+}
+.footer{
+  background-color: #170902;
+  color: white;
+  text-align: center;
+  height:8.196602%;
+}
+.sectionMargin{
+  margin:0;
+}
+.jumbotron {
+    border-radius: 0px !important;
+}
+.signature{
+  font-family: 'Marck Script', cursive;
+}
+.signNav{
+  font-size: 200%;
+}
+.signHeadline{
+  color:white;
+  /*margin-left: 35.196602%;*/
+}
+.hrStyle{
+  border: 0.5px solid white;
+  width:38.196602%;
+  margin-left: 31.196602%;
+}
+.navbarMarginLeft{
+  margin-left: 38.196602%;
+}
+.navbarMargin{
+  margin-top: 2.21286%;
+}
+.navbarNotSignatureAlign{
+position: relative;
+left:20px;
+top:15px;
+}

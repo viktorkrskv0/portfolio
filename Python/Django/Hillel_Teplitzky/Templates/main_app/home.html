@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+{% extends "main_app/base.html" %}
+{% block body_block %}
+
+<style media="screen">
+  a:hover{
+    color: black;
+  }
+</style>
+
+<div class="jumbotron section1 section1Image sectionMargin">
+  <div class="container">
+    <h1 class="display-2 signature signHeadline">Hillel Teplitzki</h1>
+    <hr class="my-4 hrStyle">
+    <p class="lead">composer & sound designer</p>
+    <hr class="my-4">
+  <!--  <p><cite>Can I offer you an egg in this tryin' time?</cite> - Frank Reynolds</p>-->
+  </div>
+</div>
+
+<div class="jumbotron section2 sectionMargin">
+  <div class="container">
+    <h1 class="display-4">Discover My Work!</h1>
+    <p class="lead">'prffesional, marvelous composing. the best person to buy these services from' -Tali Teplitzki </p>
+    <hr class="my-4">
+    <p>'Some say it is better than an orgasm!' -Mac</p>
+    <br><br>
+    <p class="lead">
+      <a style='display:block;margin:0 auto;width:300px;background-color:#955d33;border:none;' class="btn btn-primary btn-lg" href="{% url 'main_app:audio' %}" role="button">Listen To Music</a>
+    </p>
+    <p class="lead">
+      <a style='display:block;margin:0 auto;width:300px;background-color:black;border:none;' class="btn btn-primary btn-lg" href="{% url 'main_app:contact' %}" role="button">Contact Me!</a>
+    </p>
+  </div>
+</div>
+
+{% endblock %}
